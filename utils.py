@@ -1,7 +1,7 @@
 import json
 
 a = User_data = {
-    "shayan": '1234'
+    "arman": '1234'
 }
 dump = json.dumps(a)
 with open('pass.json', mode='w') as f:
